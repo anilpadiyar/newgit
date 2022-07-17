@@ -9,5 +9,9 @@ d ={
     'email':'apadiyar@csc.com  ',
     'surname':'padiyar'
 }
-
+d1 ={
+    'name':'anil',
+    'email':'apadiyar@csc.com  ',
+    'surname':'padiyar'
+}
 db1 =client[]
